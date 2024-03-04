@@ -1,1 +1,29 @@
   
+import time
+
+print("Hello, do you want some toys on eBay?")
+print("*********************************")
+print ("They are a cloud plush, a lol surprise big, a gold mining, and a small lol!")
+print("*********************************")
+print ("They are all together with a total of $19.99!")
+print("*********************************")
+print ("Warning! You can only buy all of them together!")
+
+print('\n\n\n')
+full_box_price = 19.99
+
+owner_name = "Claire Ma"
+
+address = "44 Coral Reef "
+
+my_mom_phone_number = "949-394-9976"
+
+
+print("Hello, my name is " + owner_name + " and I live at " + address + "My phone number is " + my_mom_phone_number)
+
+
+message1 = "If you can and want to, please buy!"
+message2 = "But if you don,t want to or can,t, feel free like flying to say no to me!"
+message3 = " Thank You for your cooperation!"
+
+print(message1 + message2 + message3)
